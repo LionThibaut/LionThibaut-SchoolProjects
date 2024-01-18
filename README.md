@@ -9,21 +9,21 @@
   
 ## Bloc 2
 ### Gestionnaire des ressources humaines d'une entreprise 🤝
-- **Objectif :** Gestionnaire d'archivage de séries de véhicules de tous types avec ajout de son propre véhicule. Possibilité de calculer le coût de la taxe de circulation pour chaque véhicule en fonction de ses caractéristiques et des réglementations locales.
+- **Objectif :** Gestionnaire des employés (salaires, fonctions, horaires, ...) d'une entreprise. Obtention de bilans et de statistiques sur les données.
 - **Technologies utilisées :** C (en invite de commande)
 - **Aperçu du projet :**
 
   <img src="Images/Project-C.PNG" width="500" alt="Project-C">
 
 ### Gestionnaire de véhicules et calculatrice de taxes 🚗
-- **Objectif :** Gestionnaire des employés (salaires, fonctions, horaires, ...) d'une entreprise. Obtention de bilans et de statistiques sur les données.
+- **Objectif :** Gestionnaire d'archivage de séries de véhicules de tous types avec ajout de son propre véhicule. Possibilité de calculer le coût de la taxe de circulation pour chaque véhicule en fonction de ses caractéristiques et des réglementations locales.
 - **Technologies utilisées :** XML, PHP, HTML/CSS, XSL, JavaScript
 - **Aperçu du projet :**
 
   <img src="Images/Project-PHP-XML.PNG" width="400" alt="Project-PHP-XML">
 
 ### Site internet de récupération de données (WhatsMyInfo) 🔢
-- **Objectif :** Site internet ayant pour objectif d'afficher toutes les données de l'utilisateur récupérables par navigateur. Cela permet de présenter la quantité d'informations récupérables de cette manière à l'utilisateur, grâce à une utilisation sur mobile notamment (gyroscope, localisation, accéléromètre, ...). Création de comptes pris en charge afin d'en conclure des statistiques diverses. Gestionnaire d'administration compris également.
+- **Objectif :** Site internet ayant pour objectif d'afficher toutes les données de l'utilisateur récupérables par navigateur. Cela permet de présenter la quantité d'informations accessibles de cette manière et de sensibiliser à ce sujet. Grâce à une utilisation sur mobile, d'autres types d'informations sont concernées (gyroscope, localisation, accéléromètre, ...). Création de comptes pris en charge afin d'en conclure des statistiques diverses. Gestionnaire d'administration compris également.
 - **Technologies utilisées :** PHP, MySQL, HTML, JQuery, Bootstrap
 - **Aperçu du projet :**
 
@@ -38,14 +38,14 @@
 
 ## Bloc 3
 ### Jeu vidéo de type "Vampire Survivors" (Zombiland) 🧟
-- **Objectif :** Jeu vidéo en 2 dimensions avec pour objectif de faire survivre notre personnage le plus longtemps possible au sein des hordes de zombies. Jeu à accumulation de scores avec un système de vie et d'expérience pour le joueur.
+- **Objectif :** Jeu vidéo en 2 dimensions avec pour objectif de faire survivre notre personnage le plus longtemps possible au sein de hordes de zombies. Jeu à accumulation de scores avec un système de vie et d'expérience pour le joueur.
 - **Technologies utilisées :** C++, SFML
 - **Aperçu du projet :**
 
   <img src="Images/Project-C++.PNG" width="700" alt="Project-C++">
 
 ### Site internet et application mobile pour animaux disparus 🐕
-- **Objectif :** Site internet complet (du backend au frontend) permettant de centraliser les animaux perdus de la région de Mons. Un grand nombre de fonctionnalités est proposé afin d'ajouter ses propres animaux perdus ou pour retrouver et informer les propriétaires. Le tout est disponible au sein de différents fils d'actualités. De plus, le site dispose d'une application mobile permettant de profiter de fonctionnalités inédites grâce à ce support (localisation, notifications, ...).
+- **Objectif :** Site internet complet (du backend au frontend) permettant de centraliser les animaux perdus de la région de Mons. Un grand nombre de fonctionnalités est proposé afin de déclarer des animaux perdus ou retrouvés et d'en informer les propriétaires. Le tout est disponible au sein de différents fils d'actualités. De plus, le site dispose d'une application mobile permettant de profiter de fonctionnalités inédites grâce à ce support (localisation, notifications, ...).
 - **Technologies utilisées :** Angular/TypeScript, .Net/C#, Microsoft SQL Server, Kotlin
 - **Aperçu du projet :**
 
