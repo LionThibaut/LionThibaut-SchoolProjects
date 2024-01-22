@@ -37,6 +37,13 @@
   <img src="Images/Project-Java.PNG" width="800" alt="Project-Java">
 
 ## Bloc 3
+### Gestionnaire de réseaux informatiques et d'adresses IP
+- **Objectif :** Gestionnaire proposant des fonctionnalités de calculs sur des caractéristiques de réseaux informatiques diverses. Celui-ci propose, entre autres, de déterminer les caractéristiques d'une IP entrée, l'appartenance d'une IP à un réseau ou encore des possibilités de découpes d'un réseau informatique. Une interface intuitive propose ces différentes opérations à l'utilisateur de manière lisible (Tkinter). De plus, un système de connexion sécurisée y est présent.
+- **Technologies utilisées :** Python, Tkinter
+- **Aperçu du projet :**
+
+  <img src="Images/Project-Python.PNG" width="700" alt="Project-Python">
+  
 ### Jeu vidéo de type "Vampire Survivors" (Zombiland) 🧟
 - **Objectif :** Jeu vidéo en 2 dimensions avec pour objectif de faire survivre notre personnage le plus longtemps possible au sein de hordes de zombies. Jeu à accumulation de scores avec un système de vie et d'expérience pour le joueur.
 - **Technologies utilisées :** C++, SFML
