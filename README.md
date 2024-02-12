@@ -24,7 +24,7 @@
 
 ### Site internet de récupération de données (WhatsMyInfo) 🔢
 - **Objectif :** Site internet ayant pour objectif d'afficher toutes les données de l'utilisateur récupérables par navigateur. Cela permet de présenter la quantité d'informations accessibles de cette manière et de sensibiliser à ce sujet. Grâce à une utilisation sur mobile, d'autres types d'informations sont concernées (gyroscope, localisation, accéléromètre, ...). Création de comptes pris en charge afin d'en conclure des statistiques diverses. Gestionnaire d'administration compris également.
-- **Technologies utilisées :** PHP, MySQL, HTML, JQuery, Bootstrap
+- **Technologies utilisées :** PHP, MySQL, HTML/CSS, JQuery, Bootstrap
 - **Aperçu du projet :**
 
   <img src="Images/Project-Mobile.PNG" width="300" alt="Project-Mobile">
